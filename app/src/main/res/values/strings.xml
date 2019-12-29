@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Profile</string>
+    <string name="namaku">Ofhy D. Susanti \n 1718018</string>
+    <string name="enam">28</string>
+    <string name="post">POST</string>
+    <string name="delapan">36</string>
+    <string name="follower">FOLLOWER</string>
+    <string name="sembilan">120</string>
+    <string name="following">FOLLOWING</string>
+    <string name="ikuti">FOLLOW</string>
+    <string name="email">EMAIL: \n Ofhysusanti@gmail.com</string>
+    <string name="pone">Phone Number: \n 085399843422</string>
+
+
+</resources>

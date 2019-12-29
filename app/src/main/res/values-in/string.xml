@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PROFILKU</string>
+    <string name="namaku">Ofhy D. Susanti \n 1718018</string>
+    <string name="enam">28</string>
+    <string name="post">POS</string>
+    <string name="delapan">36</string>
+    <string name="follower">PENGIKUT</string>
+    <string name="sembilan">120</string>
+    <string name="following">DIIKUTI</string>
+    <string name="ikuti">IKUTI</string>
+    <string name="email">EMAIL: \n Ofhysusanti@gmail.com</string>
+    <string name="pone">Nomor Telepon: \n 085399843422</string>
+</resources>
